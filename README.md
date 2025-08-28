@@ -1,16 +1,17 @@
-## Hi there 👋
+# verply
 
-<!--
-**verply/verply** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+бедный студик, заложник питона пытающийся перейти на краба
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## чем занимаюсь
+- **python**  
+- **aiogram**  
+- **frontend**  
+
+---
+
+## связи
+tg: [@ammcngg](https://t.me/ammcngg)  
+lolz: [verply_code](https://lolz.live/members/9540954/)  
+
