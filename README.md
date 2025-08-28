@@ -20,8 +20,9 @@ https://github.com/user-attachments/assets/545ab22f-0e09-461c-9f3b-da61cb15f72e
 ---
 
 ## связи
-tg: [@ammcngg](https://t.me/ammcngg)  
-lolz: [verply_code](https://lolz.live/members/9540954/)  
+tg: [@ammcngg](https://t.me/ammcngg)
+lolz: [verply_code](https://lolz.live/members/9540954/)
+website: [verply.space](http://verply.space/)
 
 ![69f58ac3fb3e01c178ed7ec2c2cfc4ec](https://github.com/user-attachments/assets/5ed6e66b-2758-4663-8c64-8a5ed1dca4bb)
 
