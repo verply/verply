@@ -5,7 +5,7 @@
 ![L9awF3ou](https://github.com/user-attachments/assets/08e04cab-186b-4069-91e3-f0001c6e4844)
 
 бедный студик, заложник питона пытающийся перейти на краба
-
+https://github.com/user-attachments/assets/da89d472-f87b-4be7-ab9b-453034bfd35a
 ---
 
 ## чем занимаюсь
@@ -15,12 +15,6 @@
 **пытаюсь перейти на rust**  
 
 ---
-
-
-
-https://github.com/user-attachments/assets/da89d472-f87b-4be7-ab9b-453034bfd35a
-
-
 
 ## связи
 tg: [@ammcngg](https://t.me/ammcngg)  
