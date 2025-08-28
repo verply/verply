@@ -16,6 +16,12 @@
 
 ---
 
+
+
+https://github.com/user-attachments/assets/da89d472-f87b-4be7-ab9b-453034bfd35a
+
+
+
 ## связи
 tg: [@ammcngg](https://t.me/ammcngg)  
 lolz: [verply_code](https://lolz.live/members/9540954/)  
