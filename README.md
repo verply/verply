@@ -9,10 +9,10 @@
 ---
 
 ## чем занимаюсь
-- **python**  
-- **aiogram**  
-- **frontend**  
-- **пытаюсь перейти на rust**  
+**python**  
+**aiogram**  
+**frontend**  
+**пытаюсь перейти на rust**  
 
 ---
 
